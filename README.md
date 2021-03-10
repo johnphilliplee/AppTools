@@ -6,3 +6,10 @@ Currently contains:
 - swiftformat 0.47.12
 - xcodegen 2.19.0
 - swiftlint 0.43.0
+
+## Integration
+
+### Add as submodule
+
+Example:
+`git submodule add -b master git@github.com:johnphilliplee/AppTools.git tools`
