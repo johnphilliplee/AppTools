@@ -13,3 +13,6 @@ Currently contains:
 
 Example:
 `git submodule add -b master git@github.com:johnphilliplee/AppTools.git tools`
+
+Coming soon:
+- swiftgen
